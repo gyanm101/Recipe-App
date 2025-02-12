@@ -1,3 +1,5 @@
+A simple React app to search for recipes using the Edamam API. Enter a search term to get recipe details like ingredients, calories, and images. The app features a clean and responsive design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
